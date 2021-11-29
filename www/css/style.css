@@ -1,25 +1,25 @@
 /**/
 
-body{
-  background-image: url('fundo.jpg');
-}
-
 #cabecalho{
-  background-color: green;
+  background-color: orange;
   color: white;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-.a{
-  border-radius: 20px;
+h4{
+  text-align: center;
 }
 
-.b{
-  color: green;
-  font-size: large;
+img{
+  width: 260px;
+  margin-left: 60px;
 }
 
-.c{
- color: black;
+i{
+  color: orange;
+}
+
+.w{
+  color: white;
 }
